@@ -1,10 +1,11 @@
 #  Design and Implement a Dynamic SMS Management Web Application
 
 ## Getting Started
-
+npm install 
 First, run the development server:
 
 ```bash
+
 npm run dev
 # or
 yarn dev
